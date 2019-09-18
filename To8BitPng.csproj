@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>To8BitPng</AssemblyName>
+    <RootNamespace>To8BitPng</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

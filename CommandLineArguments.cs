@@ -203,7 +203,7 @@
 //    03/12/2007 Added support for non case sensitive option names.
 //////////////////////////////////////////////////////////////////////////////
 
-namespace To8Bit {
+namespace To8BitPng {
     using System;
     using System.Diagnostics;
     using System.Reflection;

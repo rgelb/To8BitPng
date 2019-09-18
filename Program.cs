@@ -6,7 +6,7 @@ using System.IO;
 using System.Threading.Tasks;
 using nQuant;
 
-namespace To8Bit {
+namespace To8BitPng {
     class Program {
         private static readonly Arguments appArgs = new Arguments();
 
