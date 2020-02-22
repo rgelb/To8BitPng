@@ -6,11 +6,11 @@ Usage:
 
 Convert a file
 
-    To8BitPng.exe /f:"c:\users\frank rizzo\desktop\ConvertThisFile.png"
+    To8BitPng.exe /f:ConvertThisFile.png
 
 Convert all files in directory 
 
-    To8BitPng.exe /d:"c:\users\frank rizzo\desktop"
+    To8BitPng.exe /d:images
 
 Convert all files in the current directory
 
